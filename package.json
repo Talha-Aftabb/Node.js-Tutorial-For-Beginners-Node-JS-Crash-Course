@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "This is just a small crash course on nodejs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "html",
+    "css",
+    "reactjs"
+  ],
+  "author": "Talha",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
